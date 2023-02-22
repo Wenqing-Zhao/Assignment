@@ -1,0 +1,12 @@
+Lab3 will closely follow the Lecture5-6 slides and the Jupyter Notebook named 
+Lab3-Notebook-DataUnderstanding-DataQualityReport-MotorInsuranceData.ipynb
+The goal of Lab3 is to practice creating a data quality report.
+Tasks:
+--- 
+1. Get familiar with the MotorInsurance Dataset and the pandas and matplotlib Python libraries (read tutorials, e.g., http://pandas.pydata.org/pandas-docs/stable/10min.html
+# Pandas Cookbook: http://pandas.pydata.org/pandas-docs/stable/tutorials.html).
+Also check out seaborn and bokeh libraries for visualisations.
+
+2. Prepare a Data Quality Report for this dataset, i.e., see example code for how to compute summary statistics tables and plots to summarise the distribution of values for each feature in the dataset. Consult the textbook regarding the discussion for each feature and how to summarise the discussion in the report, with tables, visualisations and descriptions of findings from the tables and visualisations.
+
+Also see the exercises listed in the Lab3 notebook.

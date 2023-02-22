@@ -1,0 +1,7 @@
+Feature,count,unique,top,freq,%missing,card
+ID,500,500,1,1,0.0,500
+Insurance Type ,500,1,CI,500,0.0,1
+Marital Status,170,3,Married,99,66.0,3
+Injury Type,500,4,Broken Limb,177,0.0,4
+Overnight Hospital Stay,500,2,No,354,0.0,2
+Fraud Flag,500,2,0,332,0.0,2
