@@ -16,7 +16,7 @@ public class RegularPolygonTest {
         int largestAreaPolygon = 1;
 
         // Iterate over the "polygonArray" and print out the perimeter and the area of each polygon
-        for (int i = 1; i < polygonArray.length; i++) {
+        for (int i = 0; i < polygonArray.length; i++) {
             System.out.println("polygon " + (i+1) + ": " + polygonArray[i].toString() +
             " Perimeter is " + polygonArray[i].getPerimeter() +
             " Area is " + polygonArray[i].getArea());
@@ -38,9 +38,9 @@ public class RegularPolygonTest {
 
         // Print out the number and perimeter of the polygon with the minimum perimeter
         System.out.println("The number of polygon with smallest perimeter is " + smallestPerimeterPolygon
-        + " which is " + smallestPerimeter);
+        + " ,the smallest perimeter is " + smallestPerimeter);
         // Print out the number and area of the polygon with the largest area
         System.out.println("The number of polygon with largest area is " + largestAreaPolygon
-        + " which is " + largestArea);
+        + " ,the largest area is " + largestArea);
     }
 }
